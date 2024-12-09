@@ -17,8 +17,8 @@ I’m a dedicated game developer with a passion for crafting seamless and engagi
 ---
 
 ## 🎥 Demos of My Work  
-### Control Arms 
-![Control_Arms](https://github.com/user-attachments/assets/c8967481-bbbc-4ff2-90e0-ee15a77926d3)
+![a](https://github.com/user-attachments/assets/c8967481-bbbc-4ff2-90e0-ee15a77926d3)
+![a](https://github.com/user-attachments/assets/0cd9a017-893d-46c5-906b-be4592b20f0f)
 
 > **Note:** These demos represent general concepts. Details of my actual projects remain confidential.
 
